@@ -1,0 +1,59 @@
+# DS 2002 Contributions
+
+---
+Format:
+[Your Name], [A Fun Fact About You], [Your Favorite Bash Command]
+---
+
+Sanika Rewatkar, I make jewelry in my free time, echo
+Anaya Green, I did cheer for 10 years, ls
+Cooper Carlson, I can play the saxophone, ls
+echo 'Ella Harig, I can wiggle my ears, pwd' >>class_log.txt
+Sahana Krishnaraj, I have a motorcycle license, history 
+Camila, I can play soccer, ls
+Heidi Williams, I can legally drive an ambulance, cat
+Marin Marcillac, I love biochemistry and data science, ls
+Samuel Park, I like to play basketball, cd
+Somin (Mina) Ahn, my favorite fruit is apple, mv
+Morhan Phelps, I like to knit, cd
+Shreyas Mayya, I play the clarinet, rm
+Connor McCartney, I had 5 wisdom teeth, cd
+Yuezhang Chen, I am a trilingualist, ls 
+Zixing Yu, I love dance, cd
+Laura Segura, I play racquetball, cd
+Ruizhang Chen, Im a soccer referee, ls
+Thomas Hooks, I have a dog named Bowser, clear
+Divya Ramakrishnan, I like to play badminton, cat
+Wenwan Xu, I just removed all 4 of my wisdom teeth over the summer, ls
+Emma Ellsworth, I have a cat, cd
+Sammy Shin, I hate hamburgers, cd
+Samrawit Yemane, I used to play the Viola, ls
+Brishti Chakraborty, I love to read and write, ls
+Olivia Pang, I play the violin, echo
+Lexie Chen, I can always find a parking spot, cd ~
+Shreeja Tangutur, Everyone in my family is born in a different generation!, mkdir
+Isaac Yoo, I am a 2nd degree blackbelt, ls
+Shravya Etta, I'm on a competitive dance team, nano
+Olivia Smith, I have a 548 day Doulingo streak, touch
+Fede Bandoni, I can play the Piano and French Horn, ls
+Shahmeer danish, I have lived in 5 countries, cd
+Jibril Hersi, i have 5 siblings, pwd
+Surya Vemulapalli, I liking hiking in the woods, pwd
+Saad Shahzad, Ive been to Paris, ls
+Jesse Rimon, My favorite artist is The Weeknd, cd ~; ls -R
+Natalie Ladocsi, I'm exactly 100 years younger than Dr. Seuss, ls
+Blake Richardson, I play the guitar and violin, cp
+Marco Velazquez, I enjoy going to the gym, ls
+Austin Blackburn, I can play the guitar, mkdir
+Dami, I like to read, ls
+Mercy Soly, I can swime, ls
+Victoria Markakis, I am from Brazil, cat
+Zilan Saadi, I am the oldest child, ls
+Bacheler Burt, I play the drums, ls
+Somin Ahn, my favorite fruit is apple, mv
+Natalie Nguyen, I LOVE to travel, My favorite Bash Command is mkdir (mainly because how people pronounce it :p)
+Katie Manley, I play soccer, ls
+Araceli Soto, born abroad, echo
+Pranav Vaddepalli, I like to play ping pong, grep
+Aaron Storozuk, I have a dog (Xena) and two cats (Zelda & Link), mkdir
+Nithya Gopal, I can play clarinet and piano, cd
