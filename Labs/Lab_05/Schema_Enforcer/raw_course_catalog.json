@@ -1,0 +1,30 @@
+[
+  {
+    "course_id": "DS2002",
+    "section": "001",
+    "title": "Data Science Systems",
+    "level": 200,
+    "instructors": [
+      {
+        "name": "Austin Rivera",
+        "role": "Primary"
+      },
+      {
+        "name": "Heywood Williams-Tracy",
+        "role": "TA"
+      }
+    ]
+  },
+  {
+    "course_id": "EVSC3020",
+    "section": "100",
+    "title": "GIS METHODS",
+    "level": 300,
+    "instructors": [
+      {
+        "name": "John Porter",
+        "role": "Primary"
+      }
+    ]
+  }
+]
